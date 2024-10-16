@@ -1,4 +1,4 @@
-<h1> Hi, I'm Alex! <br/><a href="https://github.com/joshmadakor1">Robotics Software Developer</a>, <a href="www.linkedin.com/in/alex-alcón">Mechatronics Engineer</a> </h1>
+<h1> Hi, I'm Alex! <br/> <a href="www.linkedin.com/in/alex-alcón">Mechatronics Engineer</a> </h1>
 
 <h2> 🤖💻 ROS/ROS2-Driven Robotics Software Development Key Projects: </h2>
 
